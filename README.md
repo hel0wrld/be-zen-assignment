@@ -28,6 +28,6 @@
 
 ### How to run the notebook?
 * Make sure the required libraries and Python are installed.
-* Next, make sure the ``data_values.csv`` is present in the same directory as the notebook.
+* Next, make sure the ``data_values.csv`` is present in the same directory as the notebook. Link to the csv file: [link](https://drive.google.com/file/d/1AVg8ENuzzvmBWhzFRUgT1os7E8IO78Tq/view?usp=sharing). Please rename the file to ``data_values.csv``.
 * Open a terminal in the directory and run the notebook. For notebook, visit [Jupyter Notebook](https://jupyter.org/) or any other notebook installation websites for further instructions.
 * In case of Jupyter, open the notebook and click on 'Cell', then 'Run All'.
